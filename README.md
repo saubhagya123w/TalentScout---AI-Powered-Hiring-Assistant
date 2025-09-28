@@ -38,8 +38,7 @@ TalentScout/
 ├─ .env.example # Environment variable template
 └─ README.md # Documentation
 
-yaml
-Copy code
+
 
 ---
 
